@@ -1,2 +1,2 @@
 # hello-world
-My seminal repository where I am learning about GitHub
+I am having trouble merging branches.
